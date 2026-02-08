@@ -103,9 +103,9 @@ export async function generateSuggestions(
     status?: string;
   }>
 ): Promise<Suggestion[]> {
-  // RAG sources (served from /public)
-  const instrPath = "/Data/INSTRUCTIONS/OWN_FUND_INSTRUCTION.txt";
-  const rulesPath = "/Data/RULES/OWN_FUNDS.txt";
+  // RAG sources (remote raw files on GitHub)
+  const instrPath = "https://raw.githubusercontent.com/Pranav-Kunjir/COREP-ASSIST/refs/heads/main/src/Data/INSTRUCTIONS/OWN_FUND_INSTRUCTION.txt";
+  const rulesPath = "https://raw.githubusercontent.com/Pranav-Kunjir/COREP-ASSIST/refs/heads/main/src/Data/RULES/OWN_FUNDS.txt";
 
   let instructions = "";
   let rules = "";

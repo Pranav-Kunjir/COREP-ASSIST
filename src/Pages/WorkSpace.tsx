@@ -165,13 +165,13 @@ function CorepWorkspace({
         // If rows exist but don't have templateId, attempt backfill from CSV
         const missingId = corepRows.every((r: any) => !r.templateId);
         if (missingId) {
-          try {
+            try {
             const mapping: Record<string, string> = {
-              "own-funds": "OWN_FUNDS.csv",
+              "own-funds": "https://raw.githubusercontent.com/Pranav-Kunjir/COREP-ASSIST/refs/heads/main/src/Data/TEMPLATES/OWN_FUNDS.csv",
             };
             const filename = mapping[template];
             if (filename) {
-              const csvRows = await loadCsvTemplate(`/src/Data/TEMPLATES/${filename}`);
+              const csvRows = await loadCsvTemplate(filename);
               const byRowCode: Record<string, string> = {};
               for (const rr of csvRows) byRowCode[rr.rowCode] = rr.rowCode;
 
@@ -195,14 +195,14 @@ function CorepWorkspace({
       } // already initialised
 
       const mapping: Record<string, string> = {
-        "own-funds": "OWN_FUNDS.csv",
+        "own-funds": "https://raw.githubusercontent.com/Pranav-Kunjir/COREP-ASSIST/refs/heads/main/src/Data/TEMPLATES/OWN_FUNDS.csv",
       };
 
       const filename = mapping[template];
       if (!filename) return;
 
       try {
-        const rows = await loadCsvTemplate(`/src/Data/TEMPLATES/${filename}`);
+        const rows = await loadCsvTemplate(filename);
         const rowsWithId = rows.map((row: any) => ({ id: crypto.randomUUID(), ...row }));
         await initCorepRows({ chatId: chatId as any, rows: rowsWithId });
       } catch (e) {
