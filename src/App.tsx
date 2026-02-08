@@ -3,7 +3,7 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 import { Authenticated, Unauthenticated } from "convex/react";
 
-import SignInForm from "./components/signIn";
+import Landing from "./Pages/Landing";
 import SignOutButton from "./components/signOut";
 import Dashboard from "./Pages/Dashboard";
 import WorkSpace from "./Pages/WorkSpace";
@@ -11,9 +11,8 @@ import WorkSpace from "./Pages/WorkSpace";
 export default function App() {
   return (
     <>
-      <header className="sticky top-0 z-10 bg-light p-4 border-b-2">
-        <SignOutButton />
-      </header>
+      <SignOutButton />
+
 
       <Authenticated>
         <Routes>
@@ -24,7 +23,7 @@ export default function App() {
       </Authenticated>
 
       <Unauthenticated>
-        <SignInForm />
+        <Landing />
       </Unauthenticated>
     </>
   );
