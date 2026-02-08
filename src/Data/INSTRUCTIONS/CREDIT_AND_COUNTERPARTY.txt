@@ -1,0 +1,287 @@
+OF 07.00 - CREDIT AND COUNTERPARTY CREDIT RISKS AND FREE DELIVERIES: STANDARDISED APPROACH TO CAPITAL REQUIREMENTS (OF CR SA)
+Effective from 1 January 2027
+
+--------------------------------------------------------------------------------
+1. GENERAL REMARKS & SCOPE
+--------------------------------------------------------------------------------
+[3.2.1] General remarks
+45. The OF CR SA templates provide the necessary information on the calculation of own funds requirements for credit risk in accordance with the Standardised Approach. In particular, they provide detailed information on:
+a) the distribution of the exposure values according to the different, exposure types, risk weights and exposure classes; and
+b) the amount and type of credit risk mitigation techniques used.
+
+[3.2.2] Scope of the OF CR SA template (OF 07.00)
+46. In accordance with Article 112 of the Credit Risk: Standardised Approach (CRR) Part of the PRA Rulebook, each SA exposure shall be assigned to one of the SA exposure classes to calculate own funds requirements.
+47. The information in OF CR SA is required for the total exposure across all exposure classes and individually for each of the exposure classes under the Standardised Approach. The total figures as well as the information of each exposure class shall be reported in a separate dimension.
+48. However the following positions are not within the scope of OF CR SA:
+(a) exposures assigned to the exposure class 'items representing securitisation positions' as referred to in Article 112(1)(m) of the Credit Risk: Standardised Approach (CRR) Part, which shall be reported in the CR SEC templates; and
+(b) exposures deducted from own funds.
+49. The scope of the OF CR SA template shall cover the following own funds requirements:
+(a) credit risk in accordance with Credit Risk: Standardised Approach (CRR) Part and Chapter 2 of Title II or Part Three CRR in the banking book, including counterparty credit risk in accordance with the Credit Risk Mitigation (CRR) Part of the PRA Rulebook and Counterparty Credit Risk (CRR) Part of the PRA Rulebook and Chapter 6 of Title II of Part Three CRR in the banking book;
+(b) counterparty credit risk in accordance with the Credit Risk Mitigation (CRR) Part and Counterparty Credit Risk (CRR) Part and Chapter 6 of Title II of Part Three CRR in the trading book for exposures subject to the Standardised Approach in accordance with Credit Risk: Standardised Approach (CRR) Part and Chapter 2 of Title II or Part Three CRR; and
+(c) settlement risk arising from free deliveries in accordance with Article 379 CRR in respect of all the business activities.
+50. The template shall include all exposures for which own funds requirements are calculated in accordance with Credit Risk: Standardised Approach (CRR) Part and Chapter 2 of Title II and Part Three CRR, including where institutions apply Credit Risk Mitigation (CRR) Part, and Counterparty Credit Risk (CRR) Part and Chapter 6 of Title II of Part Three CRR.
+50A. Institutions that apply Article 94(1) of the Trading Book (CRR) Part of the PRA Rulebook shall also report their trading book positions referred to in Article 92(3)(b) of the Required Level of Own Funds (CRR) Part of the PRA Rulebook in this template when they apply Credit Risk: Standardised Approach (CRR) Part and Chapter 2 of Title II of Part Three CRR to calculate the own funds requirements thereof (Credit Risk: Standardised Approach (CRR) Part, Counterparty Credit Risk (CRR) Part and Title V of Part Three CRR). Therefore, the template shall not only provide detailed information on the type of the exposure (e.g. on balance sheet / off balance sheet items), but also information on the allocation of risk weights within the respective exposure class.
+51. In addition, OF CR SA includes memorandum items in rows 0300, 0320, 0371, 0372, 0373, 0374 and 0380 to collect further information about: exposures in default; equity exposures within the 'subordinated debt, equity and other own funds instruments' exposure class , and; exposures subject to the currency mismatch multiplier.
+52. Those memorandum items in rows 0300 and 0320 shall only be reported for the following exposure classes:
+(a) central governments or central banks (Article 112(1)(a));
+(b) regional governments or local authorities (Article 112(1)(b));
+(c) public sector entities (Article 112(1)(c));
+(d) institutions (Article 112(1)(f));
+(e) corporates (Article 112(1)(g));
+(f) retail (Article 112(1)(h));
+(g) real estate (Article 112(1)(i)).
+53. The reporting of the memorandum items in rows 0300 and 0320 shall affect neither the calculation of the risk-weighted exposure amounts of the exposure classes referred to in Article 112(1)(a, b, c, f, g, h) nor the exposure classes referred to in Article 112(1)(i,j) reported in template OF CR SA.
+54. The memorandum items in rows 0300 and 0320 provide additional information about the obligor structure of the exposure classes 'in default'. Exposures shall be reported in these rows where the obligors would have been reported in the exposure classes 'Central governments or central banks', 'Regional governments or local authorities', 'Public sector entities', 'Institutions', 'Corporates', 'Retail' and 'Real estate' within OF CR SA, if those exposures were not assigned to the exposure classes 'in default'. The figures reported, however, are the same as used to calculate the risk-weighted exposure amounts in the exposure class 'exposures in default'.
+55. For example, if an exposure, the risk-weighted exposure amounts of which are calculated in accordance with Article 127 and the specific credit risk adjustments are less than 20% of the outstanding amount of the item or facility, then that information shall be reported in OF CR SA, row 0320 in the total and in the exposure class 'in default'. If this exposure, before it defaulted, was an exposure to an institution, then that information shall also be reported in row 0320 of exposure class 'institutions'.
+55A. Firms shall only report the memorandum items in rows 0371-0374 for the following exposure class:
+(a) subordinated debt, equity and other own funds instruments (Article 112(1)(p)).
+55B. Firms shall only report the memorandum items in rows 0371 and 0372 for exposures that are subject to the Rules 4.1 to 4.3 of the Credit Risk: General Provisions (CRR) Part. The reporting of these memorandum items in rows 0371 and 0372 shall not affect the calculation of the risk-weighted exposure amount of the exposure class referred to in Article 112(1)(p) reported in template OF CR SA.
+55C. Firms shall only report the memorandum items in rows 0373 and 0374 for exposures that are subject to Rules 4.4 to 4.8 of the Credit Risk: General Provisions (CRR) Part. The reporting of these memorandum items in rows 0373 and 0374 shall not affect the calculation of the risk-weighted exposure amount of the exposure class referred to in Article 112(1)(p) (which shall include exposures subject to the IRB Transitional Approach described in Rules 4.4 to 4.8 of the Credit Risk: General Provisions (CRR) Part).
+55D. The memorandum items in rows 0371-0374 provide additional information on the transitional provisions for the treatment of equity exposures as stated in Rules 4.1 to 4.10 of the Credit Risk: General Provisions (CRR) Part.
+55E. Firms shall only report the memorandum item in row 0380 for exposures that are subject to the currency mismatch multiplier as set out in Article 123B. Firms shall only report the memorandum item in row 0380 for the exposure classes stated in Article 112(1)(h) and Article 112(i). The reporting of the memorandum item in row 0375 shall not affect the calculation of the risk-weighted exposure amount of the exposure classes referred to in Article 112(1)(h) and Article 112(1)(i) reported in template OF CR SA.
+
+[3.2.3] Assignment of exposures to exposure classes under the SA
+56. Firms shall categorise Original exposures pre-conversion factors into the different exposure classes referred to in Article 112(1) and assign these Original exposures pre-conversion factors in the order set out in Article 112(2).
+56A. After the Original exposures pre-conversion factors have been assigned to the relevant exposure classes, exposures may be redistributed to other exposure classes due to the application of credit risk mitigation (CRM) in accordance with Credit Risk Mitigation (CRR) Part, via the inflows and outflows columns. As a consequence of CRM where firms apply the risk weight substitution method or the Financial Collateral Simple Method, or apply the Other Funded Credit Protection Method in a way which involves a substitution effect, the covered part of the exposures prior to the application of any applicable conversion factors shall be reallocated to the exposure class of the protection provider.
+63. In the case of exposures in the form of units or shares in collective investment undertakings, and where the look through approach or the mandate-based approach (Article 132A(1-2)) is used, the underlying individual exposure (in the case of the look through approach) and individual group of exposures (in the case of the mandate-based approach) shall be classified into their corresponding risk weight row according to their treatment. However, all the individual exposures shall be classified within the exposure class of Exposures in the form of units or shares in collective investment undertakings ('CIU').
+
+[3.2.4] Clarifications on specific exposure classes
+66. Intra-group exposures referred to in Article 113(6) shall be reported in line with paragraph 68.
+68. According to Article 113(6), an institution may, with the prior permission of the PRA, assign a risk weight of 0% to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a common management relationship as defined in Article 4(38A) CRR. That means that intra-group counterparties are not necessarily institutions but also undertakings which are assigned to other exposure classes, and therefore shall be reported in the corresponding exposure class.
+69. SA exposures shall be assigned to the exposure class 'eligible covered bonds' as follows:
+70. Only eligible covered bonds as defined in Articles 129(1) and 129(6) shall be classified in the exposure class 'eligible covered bonds'.
+71. Where certain conditions set out in Articles 132A(2) and 132A(3) are met, exposures in the form of units or shares in CIUs shall be reported as on balance sheet items in accordance with Article 111(1)(a).
+
+--------------------------------------------------------------------------------
+2. INSTRUCTIONS CONCERNING SPECIFIC POSITIONS (COLUMNS)
+--------------------------------------------------------------------------------
+[Col 0010] ORIGINAL EXPOSURE PRE-CONVERSION FACTORS
+Exposure value calculated in accordance with Article 111 without taking into account value adjustments and provisions, deductions, conversion factors and the effect of credit risk mitigation techniques with the following qualifications stemming from Article 111(1A to 3):
+1. For Derivative instruments, securities financing transactions and long settlement transactions subject to counterparty credit risk the original exposure shall correspond to the Exposure Value for Counterparty Credit Risk (see instructions to column 0210).
+2. Exposure values for leases shall be subject to Article 134(7). In particular, the residual value shall be included at its accounting value (i.e. the discounted estimated residual value at the end of the lease term).
+
+[Col 0030] (-) Value adjustments and provisions associated with the original exposure
+Value adjustments and provisions for credit losses (credit risk adjustments in accordance with Article 110 of the Credit Risk General Provisions (CRR) Part and Commission Delegated Regulation (EU) No 183/2014) made in accordance with the accounting framework to which the reporting entity is subject, as well as prudential value adjustments (additional value adjustments in accordance with Article 34 CRR and Article 105 of the Trading Book (CRR) Part, and other own funds reductions).
+
+[Col 0035] (-) ADJUSTMENT TO EXPOSURE VALUE DUE TO ON-BALANCE SHEET NETTING
+The reduction in exposure value due to on-balance sheet netting determined in accordance with Article 219 of the Credit Risk Mitigation (CRR) Part shall be reported.
+
+[Col 0040] Exposure net of value adjustments, provisions and on-balance sheet netting
+Sum of columns 0010, 0030, and 0035.
+
+[Col 0050-0100] CREDIT RISK MITIGATION (CRM) TECHNIQUES WITH SUBSTITUTION EFFECTS ON THE EXPOSURE
+Credit risk mitigation techniques as defined in Article 4(1)(57) CRR that reduce the credit risk of an exposure or exposures via the substitution of exposures. Collateral that has an effect on the exposure value (e.g. if used for credit risk mitigation techniques with substitution effects on the exposure) shall be capped at the exposure value.
+
+[Col 0050-0060] Unfunded credit protection: adjusted values
+For exposures subject to the Risk Weight Substitution Method, institutions shall separate each exposure, prior to the application of conversion factors, into a covered part and an uncovered part, in accordance with Article 235 of the Credit Risk Mitigation (CRR) Part and report the covered part.
+- [Col 0050] (-) Guarantees (Article 203 Credit Risk Mitigation (CRR) Part): Unfunded Credit Protection as defined in Article 4(1)(59) CRR which does not include Credit Derivatives. Institutions shall report the value of the covered part prior to the application of any applicable conversion factors.
+- [Col 0060] (-) Credit derivatives (Article 204 Credit Risk Mitigation (CRR) Part): Institutions shall report the value of the covered part prior to the application of any applicable conversion factors.
+
+[Col 0070-0080] (-) Funded credit protection
+Refer to funded credit protection as defined in Article 4(1)(58) CRR and subject to the rules set out in Articles 196, 197 and 200 of the Credit Risk Mitigation (CRR) Part. The amounts shall not include master netting agreements (already included in Original Exposure pre-conversion factors). Investments in credit linked notes as referred to in Article 218 of the Credit Risk Mitigation (CRR) Part.
+- [Col 0070] Financial Collateral Simple Method: For exposures subject to the Financial Collateral Simple Method, firms shall report the portion of the exposure prior to the application of any applicable conversion factors identified as collateralised under article 222(3) of the Credit Risk Mitigation (CRR) Part.
+- [Col 0080] Other funded credit protection: This column refers to collateral recognised under the Other Funded Credit Protection Method. For collateral of types set out in Article 200(1)(a) and (c), firms shall report the value of the protected part prior to the application of any applicable conversion factors as calculated according to Article 235. For collateral of a type set out in Article 200(1)(b), firms shall report the value of the collateral (after the application of any applicable currency mismatch adjustment), as determined under Article 232(2).
+
+[Col 0090-0100] (-) SUBSTITUTION OF THE EXPOSURE DUE TO CRM (Articles 222(3), 200(1) and 235)
+For exposures subject to the Risk Weight Substitution Method, and for collateral recognised under the Financial Collateral Simple Method or the Other Funded Credit Protection Method, firms shall separate each exposure, prior to the application of conversion factors, into a covered part and an uncovered part in accordance with Article 235 and report each part separately.
+Similarly, for collateral of a type set out in Article 200(1)(b), firms shall treat the part of the exposure that is secured by the collateral (after the application of any applicable currency mismatch adjustment) as the covered part of the exposure prior to the application of conversion factors, and the remainder of the exposure shall be treated as the uncovered part.
+Outflows shall correspond to the covered part of the Original Exposure pre-conversion factors that is deducted from the obligor's exposure class and subsequently assigned to the protection provider's exposure class. That amount shall be considered as an inflow into the protection provider's exposure class. In the case of collateral of a type set out in Article 200(1)(b), the covered part shall be considered as an inflow into the exposure class relating to the undertaking providing the life insurance.
+Inflows and outflows within the same exposure classes shall also be reported. Exposures stemming from possible inflows and outflows from and to other templates shall be taken into account.
+
+[Col 0110] Net exposure after CRM substitution effects pre-conversion factors
+Amount of the exposure net of value adjustments after taking into account outflows and inflows due to Credit Risk Mitigation (CRM) techniques with substitution effects on the exposure.
+
+[Col 0120-0140] CRM techniques affecting the exposure: amount of funded credit protection, Financial Collateral Comprehensive Method
+These columns shall be reported for exposures subject to the Financial Collateral Comprehensive Method.
+- [Col 0120] Volatility adjustment to the exposure (Article 223(2-3)): The amount to be reported is the impact of the volatility adjustment to the exposure (Eva-E) = E*He
+- [Col 0130] (-) Financial collateral adjusted value (Cvam) (Article 239(2)): For exposures in the trading book, financial collateral and commodities eligible in accordance with Article 299(2)(d-g) CRR and Article 299A in the Counterparty Credit Risk (CRR) Part shall be included. The amount to be reported corresponds to Cvam= C*(1-Hc-Hfx)*(t-t*)/(T-t*).
+- [Col 0140] (-) Of which: Volatility and maturity adjustments (Articles 223(1) and 239(2)): The amount to be reported is the joint impact of volatility and maturity adjustments (Cvam-C) = C*[(1-Hc-Hfx)*(t-t*)/(T-t*)-1], where the impact of volatility adjustment is (Cva-C) = C*[(1-Hc-Hfx)-1] and the impact of maturity adjustments is (Cvam-Cva)= C*(1-Hc-Hfx)*[(t-t*)/(T-t*)-1].
+
+[Col 0150] Fully adjusted exposure value (E*)
+Firms shall report the fully adjusted exposure value prior to the application of any applicable conversion factors. (Articles 220(4), 223(2-5) and 228(1)).
+
+[Col 0160-0190] (-) Breakdown of the fully adjusted exposure value of off-balance sheet items by conversion factors
+Table A1 of Article 111 of the Credit Risk: Standardised Approach (CRR) Part and the Glossary Part. The figures reported shall be the fully adjusted exposure values before application of the conversion factor.
+
+[Col 0200] Exposure value (Article 111 and Articles 218-239)
+Exposure value after taking into account value adjustments, all credit risk mitigants and conversion factors that is to be assigned to risk weights in accordance with Article 113.
+Exposure values for leases are subject to Article 134(7). In particular, the residual value shall be included at its discounted residual value after taking into account value adjustments, all credit risk mitigants and credit conversion factors.
+Exposure values for CCR business shall be the same as reported in column 0210.
+
+[Col 0210] Of which: Arising from Counterparty Credit Risk
+Exposure value for CCR exposures calculated in accordance with the methods laid down in the Credit Risk Mitigation (CRR) Part, and the Counterparty Credit Risk (CRR) Part and Chapter 6 of Title II of Part Three CRR, which is the relevant amount for the calculation of risk-weighted exposure amounts, i.e. having applied CRM techniques as applicable in accordance with those Parts and that chapter of the CRR and considering the deduction of the incurred CVA loss as referred to in Article 273(6).
+The exposure value for transactions where specific wrong way risk has been identified shall be determined in accordance with Article 291 CRR.
+For cases in which more than one CCR approach is used for a single counterparty, the incurred CVA loss, which is deducted at counterparty level, shall be assigned to the exposure value of the different netting sets in rows 0090 - 0130 reflecting the proportion of the exposure value post-CRM of the respective netting sets to the total exposure value post-CRM of the counterparty. For this purpose, the exposure value post-CRM as per the instructions to column 0160 of template C 34.02 shall be used.
+
+[Col 0211] Of which: Arising from Counterparty Credit Risk excluding exposures cleared through a CCP
+Exposures reported in column 0210 excluding those arising from contracts and transactions listed in Article 301(1) of the Counterparty Credit Risk (CRR) Part as long as they are outstanding with a central counterparty (CCP), including CCP-related transactions as defined in Rule 1.3 of that Part.
+
+[Col 0220] Risk-weighted exposure amount (Paragraphs 1 to 5 of Article 113)
+The risk-weighted exposure amount of the residual value of leasing assets is subject to sentence 5 of Article 134(7) and shall be calculated according to the formula "1/t * 100% * residual value". In particular, residual value is undiscounted estimated residual value at the end of the lease term which is reassessed periodically to ensure continued appropriateness.
+
+[Col 0230] Of which: with a credit assessment by a nominated ECAI
+Institutions shall report the risk-weighted exposure amount of exposures for which a credit assessment by a nominated ECAI is available. (Article 112(1)(a-d, f, g, l, o, q)).
+
+[Col 0235] Of which: where a credit assessment by a nominated ECAI is not available
+Institutions shall report the risk-weighted exposure amount of exposures for which a credit assessment by a nominated ECAI is not available (including exposures for which a credit assessment by a nominated ECAI is not available, and the applicable risk weight treatment is derived from a credit assessment by a nominated ECAI for the central government). (Article 112(1)(a-d, f, g, l, o, q)).
+
+[Col 0240] Of which: with a credit assessment derived from central government
+Institutions shall report the risk-weighted exposure amount of exposures for which a credit assessment by a nominated ECAI is not available, and the applicable risk weight treatment is derived from a credit assessment by a nominated ECAI for the central government. (Article 112(1)(b, c, l and o)).
+
+--------------------------------------------------------------------------------
+3. INSTRUCTIONS CONCERNING SPECIFIC POSITIONS (ROWS)
+--------------------------------------------------------------------------------
+[Row 0010] Total exposures
+
+[Row 0015] of which: Defaulted exposures in exposure classes "exposures associated with particularly high risk" and "subordinated debt, equity and other own funds instruments" (Article 127)
+Only exposures in exposure classes 'exposures associated with particularly high risk', 'subordinated debt, equity and other own funds instruments', and 'exposures in the form of units or shares in collective investment undertakings ('CIUs')' shall be reported in this row if they are in default.
+In accordance with Article 112(2), exposures for which a risk-weight treatment is set out in Articles 128, 132 and 133 (with the exception of exposures excluded according to Article 132B) shall be assigned to exposure classes 'exposures associated...' 'exposures representing...' or 'subordinated debt, equity...' and shall not be assigned to the 'defaulted exposure' exposure class even in case of defaulted exposures as defined in Rule 1.2 of the Credit Risk: Standardised Approach (CRR) Part.
+
+[Row 0020] of which: SME
+All exposures to SMEs as defined in the Glossary Part shall be reported.
+
+[Row 0021] of which: Exposures to corporates - Specialised lending - Object finance exposures (Articles 122A and 122B)
+Only exposures which are 'object finance exposures' as defined in the Glossary Part, assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g), and subject to the risk weight treatment in accordance with Article 122B(2)(a), shall be reported here. Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0022] of which: Exposures to corporates - Specialised lending - Commodities finance exposures (Articles 122A and 122B)
+Only exposures which are 'commodities finance exposures' as defined in the Glossary Part, assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g), and apply the risk weight treatment in accordance with Article 122B(2)(b), shall be reported here. Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0023] of which: Exposures to corporates - Specialised lending - Project finance exposures (Articles 122A and 122B)
+Only exposures which are 'project finance exposures' as defined in the Glossary Part, assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g), and apply the risk weight treatment in accordance with Articles 122B(2)(c) or 122B(4), shall be reported here. Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0024] of which: pre-operational phase (Articles 122A and 122B)
+Only the exposures that meet all the following shall be reported here:
+(a) 'project finance exposures' as defined in the Glossary Part;
+(b) 'project finance exposures' that are during the pre-operational phase given that the conditions in Article 122B(3) are not met;
+(c) assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g); and
+(d) subject to the risk weight treatment in accordance with Article 122B(2)(c).
+Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0025] of which: operational phase (Articles 122A and 122B)
+Only the exposures that meet all the following shall be reported here:
+(a) 'project finance exposures' as defined in the Glossary Part;
+(b) 'project finance exposures' that are during the operational phase given that the conditions in Article 122B(3) are met;
+(c) assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g); and
+(d) subject to the risk weight treatment in accordance with Article 122B(2)(c).
+Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0026] of which: high quality operational phase (Articles 122A and 122B)
+Only the exposures that meet all the following shall be reported here:
+(a) 'project finance exposures' as defined in the Glossary Part;
+(b) 'project finance exposures' that are during the operational phase and considered high quality given that the conditions in Articles 122B(3) and 122B(5) are met;
+(c) assigned to the exposure class 'Exposures to corporates' referred to in Article 112(1)(g); and
+(d) apply the risk weight treatment in accordance with Article 122B(4).
+Only reported in exposure class 'Exposures to corporates'.
+
+[Row 0330] of which: Real estate exposures - regulatory residential real estate exposures (Articles 124F and 124G)
+Only reported in exposure class 'real estate exposures' (Article 112(1)(i)). Sum of rows 0331-0332.
+- [Row 0331] of which: Real estate exposures - regulatory residential real estate exposures, not materially dependent on the cash flows generated by the property (Article 124F). Only reported in exposure class 'real estate exposures'.
+- [Row 0332] of which: Real estate exposures - regulatory residential real estate exposures, materially dependent on the cash the flows generated by the property (Article 124G). Only reported in exposure class 'real estate exposures'.
+
+[Row 0340] of which: Real estate exposures - regulatory commercial real estate exposures (Articles 124H and 124I)
+Only reported in exposure class 'real estate exposures' (Article 112(1)(i)). Sum of rows 0341 and 0342.
+- [Row 0341] of which: Real estate exposures - regulatory commercial real estate exposures, not materially dependent on the cash flows generated by the property (Article 124H).
+- [Row 0343] of which to Real estate exposures - regulatory commercial real estate exposures, not materially dependent on the cash flows generated by the property, to SMEs.
+- [Row 0342] of which: Real estate exposures - regulatory commercial real estate exposures, materially dependent on the cash flows generated by the property (Article 124I).
+- [Row 0344] of which: Real estate exposures - regulatory commercial real estate exposures, materially dependent on the cash flows generated by the property, to SMEs.
+
+[Row 0350] of which: Real estate exposures - other real estate exposures (Article 124J)
+Only reported in exposure class 'real estate exposures' (Article 112(1)(i)). Sum of rows 0351-0354.
+- [Row 0351] of which: other residential real estate - not materially dependent on the cash flows generated by the property (Article 124J(2)).
+- [Row 0352] of which: other residential real estate - materially dependent on the cash flows generated by the property (Article 124J(1)).
+- [Row 0353] of which: commercial real estate - not materially dependent on the cash flows generated by the property (Article 124J(3)).
+- [Row 0354] of which: commercial real estate - materially dependent on the cash flows generated by the property (Article 124J(1)).
+
+[Row 0360] of which: Real estate exposures - land acquisition, development and construction exposures (Article 124K)
+Only reported in exposure class 'real estate exposures' (Article 112(1)(i)).
+
+[Row 0050] of which: Exposures subject to the standardised approach subject to a permanent partial use permission
+Exposures to which the Standardised approach has been applied in accordance with Article 150 of the Credit Risk: Internal Ratings Based Approach (CRR) Part.
+
+[Row 0060] of which: Exposures subject to the standardised approach due to a roll-out plan
+Exposures to which the Standardised approach has been applied in accordance with Article 148(1) of the Credit Risk: Internal Ratings Based Approach (CRR) Part.
+
+--------------------------------------------------------------------------------
+4. BREAKDOWN OF TOTAL EXPOSURES BY EXPOSURE TYPES (ROWS 0070-0130)
+--------------------------------------------------------------------------------
+Reporting institution's "banking book" positions shall be broken-down into on-balance sheet exposures subject to credit risk, off-balance sheet exposures subject to credit risk and exposures subject to counterparty credit risk. Exposures to counterparty credit risk arising from the trading book business of the institution shall be assigned to the exposures subject to counterparty credit risk. Institutions that apply Article 94(1) of the Trading Book (CRR) Part shall also break down their "trading book" positions.
+
+[Row 0070] On balance sheet exposures subject to credit risk
+Assets referred to in Article 24 CRR not included in any other category. Exposures that are subject to counterparty credit risk shall be reported in rows 0090-0130, and therefore shall not be reported in this row. Free deliveries as referred to in Article 379(1) CRR (if not deducted) do not constitute an on-balance sheet item, but nevertheless shall be reported in this row.
+
+[Row 0080] Off-balance sheet exposures subject to credit risk
+Off-balance sheet positions comprise the commitments and other issued off-balance sheet items listed in Table A1 of Article 111. Exposures that are subject to counterparty credit risk shall be reported in rows 0090 - 0130 and therefore shall not be reported in this row.
+
+[Row 0090-0130] Exposures / Transactions subject to counterparty credit risk
+Transactions subject to counterparty credit risk, i.e. derivative instruments, securities financing transactions and long settlement transactions.
+- [Row 0090] Securities Financing Transactions netting sets: Netting sets containing only SFTs. SFTs included in a contractual cross product netting set are reported in row 0130.
+- [Row 0100] Of which: centrally cleared through a QCCP: Contracts and transactions listed in Article 301(1) of the Counterparty Credit Risk (CRR) Part outstanding with a qualifying central counterparty (QCCP).
+- [Row 0110] Derivatives and Long Settlement Transactions netting sets: Netting sets containing only derivatives listed in Annex II CRR and long settlement transactions.
+- [Row 0120] Of which: centrally cleared through a QCCP: See instructions to row 0100.
+- [Row 0130] From Contractual Cross Product netting sets: Netting sets containing transactions of different product categories (derivatives and SFTs) for which a contractual cross product netting agreement exists.
+
+--------------------------------------------------------------------------------
+5. BREAKDOWN OF EXPOSURES BY RISK WEIGHTS (ROWS 0140-0280)
+--------------------------------------------------------------------------------
+Institutions shall report the information on the allocation of risk weights within the respective exposure class according to the Credit Risk: Standardised Approach (CRR) Part and Chapter 2 of Title II of Part Three CRR.
+Real estate exposures classified as regulatory real estate (residential or commercial) which are not materially dependent on the cash flows generated by the property shall be reported in two parts, against the risk weight applied to the portion up to 55% of the value of the property, and against the portion above 55% of the value of the property (if applicable).
+Exposures subject to the currency mismatch multiplier shall be reported against the risk weight which would have applied if the currency mismatch multiplier was not applied. However, the RWEA shall still reflect the currency mismatch multiplier.
+Real estate exposures where there are 'charges not held by the institution ranking in priority ahead of the charge that the exposure is secured by' shall be reported against the risk weight which would have applied if Article 124G(2) and Article 124I(3) were disapplied. However, the RWEA shall still reflect the charge priority structure.
+Mixed real estate exposures shall be reported against the risk weights for their constituent parts.
+Equity exposures (including higher risk equity exposures) in the exposure class 'subordinated debt, equity and other own funds instruments' subject to the transitional provisions in Rules 4.1 to 4.10 of the Credit Risk General Provisions (CRR) Part shall be reported against the risk weights set out in Article 133 disregarding the transitional provisions. However, the RWEA shall still reflect the transitional provisions.
+
+[Row 0140] 0 %
+[Row 0150] 2 % (Article 306(1) Counterparty Credit Risk (CRR) Part)
+[Row 0160] 4 % (Article 305(3) Counterparty Credit Risk (CRR) Part)
+[Row 0170] 10 %
+[Row 0171] 15%
+[Row 0180] 20 %
+[Row 0181] 25%
+[Row 0182] 30%
+[Row 0190] 35 %
+[Row 0191] 40%
+[Row 0192] 45%
+[Row 0200] 50 %
+[Row 0201] 60%
+[Row 0202] 65%
+[Row 0210] 70% (Article 232(3)(c) Credit Risk Mitigation (CRR) Part)
+[Row 0220] 75 %
+[Row 0221] 80%
+[Row 0222] 85%
+[Row 0230] 100 %
+[Row 0231] 105%
+[Row 0232] 110%
+[Row 0233] 130%
+[Row 0234] 135%
+[Row 0240] 150 %
+[Row 0250] 250 % (Article 133(3) and Article 48(4) CRR). Exposures subject to rules 4.1 to 4.10 of the Credit Risk: General Provisions Part should be reported in this row during the transitional period if they qualify as an equity exposure.
+[Row 0261] 400% (Article 133(4) and Article 48(4) CRR). Exposures subject to rules 4.1 to 4.10 of the Credit Risk: General Provisions Part should be reported in this row during the transitional period if they qualify as a higher risk equity exposure.
+[Row 0270] 1 250 % (Article 132(2) and Article 379 CRR)
+[Row 0280] Other risk weights (Not available for Government, Corporates, Institutions and Retail).
+
+[Row 0281-0285] Breakdown of total exposures by approach (CIU)
+These rows shall only be reported for the exposure class Collective investment undertakings (CIU), in line with Articles 132, 132A and 132C.
+- [Row 0281] Look-through approach
+- [Row 0284] Of which: exposures to relevant CIUs
+- [Row 0282] Mandate-based approach
+- [Row 0285] Of which: exposures to relevant CIUs
+- [Row 0283] Fall-back approach
+
+--------------------------------------------------------------------------------
+6. MEMORANDUM ITEMS (ROWS 0300-0380)
+--------------------------------------------------------------------------------
+[Row 0300] Exposures in default subject to a risk weight of 100% (Article 112(1)(j))
+Exposures included in the exposure class "exposures in default", subject to Article 127(1)(b) and (3), which would otherwise have been assigned to the exposure class being reported on if they were not in default. Firms shall report values in this row for exposure classes defined in Article 112 (1)(a) to (i).
+
+[Row 0320] Exposures in default subject to a risk weight of 150% (Article 112(1)(j))
+Exposures included in the exposure class "exposures in default", subject to Article 127(1)(a), which would otherwise have been assigned to the exposure class being reported on if they were not in default. Firms shall report values in this row for exposure classes defined in Article 112(1)(a) to (i).
+
+[Row 0371-0374] Equity exposures - transitional provisions (Article 112(1)(p))
+These rows shall only be reported on if an institution is implementing the Standardised Transitional Approach for equities. Institutions shall report all equity exposures to which the Standardised Transitional Approach for equities applies in these rows.
+- [Row 0371] Standardised Transitional Approach (higher risk equity exposures) (Rules 4.1 and 4.3 Credit Risk: General Provisions (CRR) Part).
+- [Row 0372] Standardised Transitional Approach (other equity exposures) (Rules 4.1 and 4.2 Credit Risk: General Provisions (CRR) Part).
+- [Row 0373] IRB Transitional Approach (higher risk equity exposures) (Rules 4.4 to 4.6 Credit Risk: General Provisions (CRR) Part).
+- [Row 0374] IRB Transitional Approach (other equity exposures) (Rules 4.4 to 4.6 Credit Risk: General Provisions (CRR) Part).
+
+[Row 0380] Retail and real estate exposures - subject to the currency mismatch multiplier (Article 123B)
+This row shall only be reported in exposure classes 'retail exposures' (Article 112(1)(h)) and 'real estate exposures' (Article 112(1)(i)).

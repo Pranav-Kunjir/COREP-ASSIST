@@ -1,0 +1,382 @@
+C 01.00 - OWN FUNDS (CA1) INSTRUCTIONS
+Effective from 1 January 2027
+
+--------------------------------------------------------------------------------
+1. OWN FUNDS & HIERARCHY
+--------------------------------------------------------------------------------
+[Row 0010] 1. Own funds (Point (118) of Article 4(1) and Article 72 CRR)
+The own funds of an institution shall consist of the sum of its Tier 1 capital and Tier 2 capital.
+
+[Row 0015] 1.1 Tier 1 capital (Article 25 CRR)
+The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital.
+
+[Row 0020] 1.1.1 Common Equity Tier 1 capital (Article 50 CRR)
+(No specific instructions provided)
+
+--------------------------------------------------------------------------------
+2. COMMON EQUITY TIER 1 (CET1) CAPITAL
+--------------------------------------------------------------------------------
+[Row 0030] 1.1.1.1 Capital instruments eligible as CET1 capital (Points (a) and (b) of Articles 26(1), Articles 27 to 30, point (f) of Article 36(1) and Article 42 CRR)
+(No specific instructions provided)
+
+[Row 0040] 1.1.1.1.1 Fully paid up capital instruments (Point (a) of Article 26(1) and Articles 27 to 31 CRR)
+Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 CRR) shall be included.
+The share premium related to the instruments shall not be included.
+Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 CRR are fulfilled.
+
+[Row 0045] 1.1.1.1.1* Of which: Capital instruments subscribed by public authorities in emergency situations (Article 31 CRR)
+Capital instruments subscribed by public authorities in emergency situations shall be included in CET1 capital if all conditions of Article 31 CRR are fulfilled.
+
+[Row 0050] 1.1.1.1.2* Memorandum item: Capital instruments not eligible (Points (b), (l) and (m) of Article 28(1) CRR)
+Conditions in those points reflect different situations of the capital which are reversible, and thus the amount reported here can be eligible in subsequent periods.
+The amount to be reported shall not include the share premium related to the instruments.
+
+[Row 0060] 1.1.1.1.3 Share premium (Point (124) of Article 4(1), point (b) of Article 26(1) CRR)
+Share premium has the same meaning as under the applicable accounting standard.
+The amount to be reported in this item shall be the part related to the "Fully paid up capital instruments".
+
+[Row 0070] 1.1.1.1.4 (-) Own CET1 instruments (Point (f) of Article 36(1) and Article 42 CRR)
+Own CET1 held by the reporting institution or group at the reporting date. Subject to exceptions in Article 42 CRR.
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+The amount to be reported shall include the share premium related to the own shares.
+Items 1.1.1.1.4 to 1.1.1.1.4.3 do not include actual or contingent obligations to purchase own CET1 instruments. Actual or contingent obligations to purchase own CET1 instruments are reported separately in item 1.1.1.1.5.
+
+[Row 0080] 1.1.1.1.4.1 (-) Direct holdings of CET1 instruments (Point (f) of Article 36(1) and Article 42 CRR)
+Common Equity Tier 1 instruments included in item 1.1.1.1 held by institutions of the consolidated group.
+The amount to be reported shall include holdings in the trading book calculated on the basis of the net long position, as stated in point (a) of Article 42 CRR.
+
+[Row 0090] 1.1.1.1.4.2 (-) Indirect holdings of CET1 instruments (Point (114) of Article 4(1), point (f) of Article 36(1) and Article 42 CRR)
+(No specific instructions provided)
+
+[Row 0091] 1.1.1.1.4.3 (-) Synthetic holdings of CET1 instruments (Point (126) of Article 4(1), point (f) of Article 36(1) and Article 42 CRR)
+(No specific instructions provided)
+
+[Row 0092] 1.1.1.1.5 (-) Actual or contingent obligations to purchase own CET1 instruments (Point (f) of Article 36(1) and Article 42 CRR)
+According to point (f) of Article 36(1) CRR, "own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation" shall be deducted.
+
+[Row 0130] 1.1.1.2 Retained earnings (Point (c) of Article 26(1) and Article 26(2) CRR)
+Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits.
+
+[Row 0140] 1.1.1.2.1 Previous years retained earnings (Point (123) of Article 4(1) and point (c) of Article 26(1) CRR)
+Point (123) of Article 4(1) CRR defines retained earnings as "Profit and losses brought forward as a result of the final application of profit or loss under the applicable accounting framework".
+
+[Row 0150] 1.1.1.2.2 Profit or loss eligible (Point (121) of Article 4(1), Article 26(2) and point (a) of Article 36(1) CRR)
+Article 26(2) CRR allows including as retained earnings interim or year-end profits, with the prior consent of the competent authorities, if some conditions are met.
+On the other hand, losses shall be deducted from CET1, as stated in point (a) of Article 36(1) CRR.
+
+[Row 0160] 1.1.1.2.2.1 Profit or loss attributable to owners of the parent (Article 26(2) and point (a) of Article 36(1) CRR)
+The amount to be reported shall be the profit or loss reported in the accounting income statement.
+
+[Row 0170] 1.1.1.2.2.2 (-) Part of interim or year-end profit not eligible (Article 26(2) CRR)
+This row shall not present any figure if, for the reference period, the institution has reported losses, because the losses shall be completely deducted from CET1.
+If the institution reports profits, the part, which is not eligible according to Article 26(2) CRR (i.e. profits not audited and foreseeable charges or dividends), shall be reported.
+Note that, in case of profits, the amount to be deduced shall be, at least, the interim dividends.
+
+[Row 0180] 1.1.1.3 Accumulated other comprehensive income (Point (100) of Article 4(1) and point (d) of Article 26(1) CRR)
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation, and prior to the application of prudential filters.
+The amount to be reported shall be determined in accordance with Article 13(4) of PRA Rulebook, Own Funds and Eligible Liabilities (CRR) Part, Chapter 4.
+
+[Row 0200] 1.1.1.4 Other reserves (Point (117) of Article 4(1) and point (e) of Article 26(1) CRR)
+Other reserves are defined in CRR as "Reserves within the meaning of the applicable accounting framework that are required to be disclosed under that applicable accounting standard, excluding any amounts already included in accumulated other comprehensive income or retained earnings".
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation.
+
+[Row 0210] 1.1.1.5 Funds for general banking risk (Point (112) of Article 4(1) and point (f) of Article 26(1) CRR)
+Funds for general banking risk are defined in Article 38 BAD as "Amounts which a credit institution decides to put aside to cover such risks where that is required by the particular risks associated with banking".
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation.
+
+[Row 0220] 1.1.1.6 Transitional adjustments due to grandfathered CET1 Capital instruments (Paragraphs 1, 2 and 3 of Article 483 and Articles 484 to 487 CRR)
+Amount of capital instruments transitionally grandfathered as CET1. The amount to be reported is directly obtained from CA5.
+
+[Row 0230] 1.1.1.7 Minority interest given recognition in CET1 capital (Point (120) of Article 4(1) and Article 84 CRR)
+Sum of all the amounts of minority interests of subsidiaries that is included in consolidated CET1.
+
+[Row 0240] 1.1.1.8 Transitional adjustments due to additional minority interests (Articles 479 and 480 CRR)
+Adjustments to the minority interests due to transitional provisions. This item is obtained directly from CA5.
+
+[Row 0250] 1.1.1.9 Adjustments to CET1 due to prudential filters (Articles 32 to 35 CRR)
+(No specific instructions provided)
+
+[Row 0260] 1.1.1.9.1 (-) Increases in equity resulting from securitised assets (Article 32(1) CRR)
+The amount to be reported is the increase in the equity of the institution resulting from securitised assets, in accordance with the applicable accounting standard.
+For example, this item includes the future margin income that results in a gain on sale for the institution, or, for originators, the net gains that arise from the capitalisation of future income from the securitised assets that provide credit enhancement to positions in the securitisation.
+
+[Row 0270] 1.1.1.9.2 Cash flow hedge reserve (Point (a) of Article 33(1) CRR)
+The amount to be reported can be positive or negative. It shall be positive if cash flow hedges result in a loss (i.e. if it reduces accounting equity) and vice versa. Thus, the sign shall be contrary to the one used in accounting statements.
+The amount shall be net of any tax charge to be expected at the moment of the calculation.
+
+[Row 0280] 1.1.1.9.3 Cumulative gains and losses due to changes in own credit risk on fair valued liabilities (Point (b) of Article 33(1) CRR)
+The amount to be reported can be positive or negative. It shall be positive if there is a loss due to changes in own credit risk (i.e. if it reduces accounting equity) and vice versa. Thus, the sign shall be contrary to the one used in accounting statements.
+Unaudited profit shall not be included in this item.
+
+[Row 0285] 1.1.1.9.4 Fair value gains and losses arising from the institution's own credit risk related to derivative liabilities (Point (c) of Article 33(1) and Article 33(2) CRR)
+The amount to be reported can be positive or negative. It shall be positive if there is a loss due to changes in own credit risk and vice versa. Thus, the sign shall be contrary to the one used in accounting statements.
+Unaudited profit shall not be included in this item.
+
+[Row 0290] 1.1.1.9.5 (-) Value adjustments due to the requirements for prudent valuation (Articles 34 and 105 CRR)
+Adjustments to the fair value of exposures included in the trading book or non-trading book due to stricter standards for prudent valuation set in Article 105 CRR.
+
+[Row 0300] 1.1.1.10 (-) Goodwill (Point (113) of Article 4(1), point (b) of Article 36(1) and Article 37 CRR)
+(No specific instructions provided)
+
+[Row 0310] 1.1.1.10.1 (-) Goodwill accounted for as intangible asset (Point (113) of Article 4(1) and point (b) of Article 36(1) CRR)
+Goodwill has the same meaning as under the applicable accounting standard.
+The amount to be reported here shall be the same as the amount that is reported in the balance sheet.
+
+[Row 0320] 1.1.1.10.2 (-) Goodwill included in the valuation of significant investments (Point (b) of Article 37 and Article 43 CRR)
+(No specific instructions provided)
+
+[Row 0330] 1.1.1.10.3 Deferred tax liabilities associated to goodwill (Point (a) of Article 37 CRR)
+Amount of deferred tax liabilities that would be extinguished if the goodwill became impaired or was derecognised under the relevant accounting standard.
+
+[Row 0335] 1.1.1.10.4 Accounting revaluation of subsidiaries' goodwill derived from the consolidation of subsidiaries attributable to third persons (Point (c) of Article 37 CRR)
+The amount of the accounting revaluation of the subsidiaries' goodwill derived from the consolidation of subsidiaries attributable to persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+
+[Row 0340] 1.1.1.11 (-) Other intangible assets (Point (115) of Article 4(1), point (b) of Article 36(1) and point (a) and (c) of Article 37 CRR)
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also according to the applicable accounting standard.
+
+[Row 0350] 1.1.1.11.1 (-) Other intangible assets before deduction of deferred tax liabilities (Point (115) of Article 4(1) and point (b) of Article 36(1) CRR)
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also according to the applicable accounting standard.
+The amount to be reported here shall correspond to the amount reported in the balance sheet of intangible assets, other than goodwill.
+
+[Row 0360] 1.1.1.11.2 Deferred tax liabilities associated to other intangible assets (Point (a) of Article 37 CRR)
+Amount of deferred tax liabilities that would be extinguished if the intangibles assets, other than goodwill, became impaired or was derecognised under the relevant accounting standard.
+
+[Row 0365] 1.1.1.11.3 Accounting revaluation of subsidiaries' other intangible assets derived from the consolidation of subsidiaries attributable to third persons (Point (c) of Article 37 CRR)
+The amount of the accounting revaluation of the subsidiaries' intangibles assets other than goodwill derived from the consolidation of subsidiaries attributable to persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+
+[Row 0370] 1.1.1.12 (-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities (Point (c) of Article 36(1) and Article 38 CRR)
+(No specific instructions provided)
+
+[Row 0380] 1.1.1.13 (-) IRB shortfall of credit risk adjustments to expected losses (Point (d) of Article 36(1), Articles 40, 158 and 159 CRR)
+The amount to be reported shall not be reduced by a rise in the level of deferred tax assets that rely on future profitability, or other additional tax effect, that could occur if provisions were to rise to the level of expected losses" (Article 40 CRR).
+
+[Row 0390] 1.1.1.14 (-)Defined benefit pension fund assets (Point (109) of Article 4(1), point (e) of Article 36(1) and Article 41 CRR)
+(No specific instructions provided)
+
+[Row 0400] 1.1.1.14.1 (-)Defined benefit pension fund assets (Point (109) of Article 4(1) and point (e) of Article 36(1) CRR)
+Defined benefit pension fund assets are defined as "the assets of a defined pension fund or plan, as applicable, calculated after they have been reduced by the amount of obligations under the same fund or plan".
+The amount to be reported here shall correspond to the amount reported in the balance sheet (if reported separately).
+
+[Row 0410] 1.1.1.14.2 Deferred tax liabilities associated to defined benefit pension fund assets (Points (108) and (109) of Article 4(1) and point (a) of Article 41(1) CRR)
+Amount of deferred tax liabilities that would be extinguished if the defined benefit pension fund assets became impaired or were derecognised under the relevant accounting standard.
+
+[Row 0420] 1.1.1.14.3 Defined benefit pension fund assets which the institution has an unrestricted ability to use (Point (109) of Article 4(1) and point (b) of Article 41(1) CRR)
+This item shall only present any amount if there is a prior consent of the competent authority to reduce the amount of defined benefit pension fund assets to be deducted.
+The assets included in this row shall receive a risk weight for credit risk requirements.
+
+[Row 0430] 1.1.1.15 (-) Reciprocal cross holdings in CET1 Capital (Point (122) of Article 4(1), point (g) of Article 36(1) and Article 44 CRR)
+Holdings in CET1 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where there is a reciprocal cross holding that the competent authority considers to have been designed to inflate artificially the own funds of the institution.
+The amount to be reported shall be calculated on the basis of the gross long positions, and shall include Tier 1 own-fund insurance items.
+
+[Row 0440] 1.1.1.16 (-) Excess of deduction from AT1 items over AT1 Capital (Point (j) of Article 36(1) CRR)
+The amount to be reported is directly taken from CA1 item "Excess of deduction from AT1 items over AT1 Capital". The amount has to be deducted from CET1.
+
+[Row 0450] 1.1.1.17 (-) Qualifying holdings outside the financial sector which can alternatively be subject to a 1 250% risk weight (Point (36) of Article 4(1), point (k)(i) of Article 36(1) and Articles 89 to 91 CRR)
+Qualifying holdings are defined as "direct or indirect holding in an undertaking which represents 10% or more of the capital or of the voting rights or which makes it possible to exercise a significant influence over the management of that undertaking".
+According to point (k)(i) of Article 36(1) CRR qualifying holdings can, alternatively, be deducted from CET1 (using this item), or be subject to a risk weight of 1 250%.
+
+[Row 0460] 1.1.1.18 (-) Securitisation positions which can alternatively be subject to a 1250% risk weight (Point (b) of Articles 244(1), point (b) of Article 245(1) and Article 253(1) CRR)
+Securitisation positions, which are subject to a 1 250% risk weight, but alternatively are allowed to be deducted from CET1 (point (k)(ii) of Article 36(1) CRR), shall be reported in this item.
+
+[Row 0470] 1.1.1.19 (-) Free deliveries which can alternatively be subject to a 1 250% risk weight (Point (k)(iii) of Article 36(1) and Article 379(3) CRR)
+Free deliveries are subject to a 1 250% risk weight after 5 days post second contractual payment or delivery leg until the extinction of the transaction, according to the own funds requirements for settlement risk. Alternatively, they are allowed to be deducted from CET1 (point (k)(iii) of Article 36(1) CRR). In the latter case, they shall be reported in this item.
+
+[Row 0471] 1.1.1.20 (-) Positions in a basket for which an institution cannot determine the risk weight under the IRB Approach, and can alternatively be subject to a 1 250% risk weight (Point (k)(iv) of Articles 36(1) and Article 153(8) CRR)
+According to point (k)(iv) of Article 36(1) CRR, positions in a basket for which an institution cannot determine the risk weight under the IRB Approach can, alternatively, be deducted from CET1 (using this item), or subject to a risk weight of 1 250%.
+
+[Row 0472] 1.1.1.21 (-) Equity exposures under an internal models approach which can alternatively be subject to a 1 250% risk weight (Point (k)(v) of Article 36(1) and Article 155(4) CRR)
+According to point (k)(v) of Article 36(1) CRR, equity exposures under an internal models approach can, alternatively, be deducted from CET1 (using this item), or be subject to a risk weight of 1 250%.
+
+[Row 0480] 1.1.1.22 (-) CET1 instruments of financial sector entities where the institution does not have a significant investment (Point (27) of Article 4(1), point (h) of Article 36(1), Articles 43 to 46, paragraphs 2 and 3 of Article 49 and Article 79 CRR)
+Part of holdings by the institution of instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution does not have a significant investment that has to be deducted from CET1.
+See alternatives to deduction when consolidation is applied (paragraphs 2 and 3 of Article 49).
+
+[Row 0490] 1.1.1.23 (-) Deductible deferred tax assets that rely on future profitability and arise from temporary differences (Point (c) of Article 36(1); Article 38 and point (a) of Article 48(1) CRR)
+Part of deferred tax assets that rely in future profitability and arise from temporary differences (net of the part of associated deferred tax liabilities allocated to deferred tax assets that arise from temporary differences), which according to point (b) of Article 38(5) CRR has to be deducted applying the 10% threshold referred to in point (a) of Article 48(1) CRR.
+
+[Row 0500] 1.1.1.24 (-) CET1 instruments of financial sector entities where the institution has a significant investment (Point (27) of Article 4(1), point (i) of Article 36(1); Articles 43, 45, 47, point (b) of Article 48(2), paragraphs 1, 2 and 3 of Article 49 and Article 79 CRR)
+Part of holdings by the institution of CET1 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution has a significant investment that has to be deducted, applying the 10% threshold referred to in point (b) of Article 48(1) CRR.
+See alternatives to deduction when consolidation is applied (paragraphs 1, 2 and 3 of Article 49 CRR).
+
+[Row 0510] 1.1.1.25 (-) Amount exceeding the 17.65% threshold (Article 48(2) CRR)
+Part of deferred tax assets that rely in future profitability and arise from temporary differences, and direct, indirect and synthetic holdings by the institution of the CET1 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution has a significant investment that has to be deducted, applying the 17.65% threshold in Article 48(2) CRR.
+
+[Row 0511] 1.1.1.25.1 (-) Amount exceeding the 17.65% threshold related to CET1 instruments of financial sector entities where the institution has a significant investment
+(No specific instructions provided)
+
+[Row 0512] 1.1.1.25.2 (-) Amount exceeding the 17.65% threshold related to deferred tax assets arising from temporary differences
+(No specific instructions provided)
+
+[Row 0514] 1.1.1.25B (-) Minimum value commitment shortfalls
+Not reported.
+
+[Row 0515] 1.1.1.25C (-) Other foreseeable tax charges (Point (l) of Article 36(1) CRR)
+Tax charges relating to CET1 items foreseeable at the moment of the calculation other than tax charges that have been considered already in any of the other rows reflecting CET1 items by reducing the amount of the CET1 item in question.
+
+[Row 0520] 1.1.1.26 Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 CRR)
+Adjustments to deductions due to transitional provisions. The amount to be reported is directly obtained from CA5.
+
+[Row 0524] 1.1.1.27 (-) Additional deductions of CET1 Capital due to Article 3 CRR (Article 3 CRR)
+(No specific instructions provided)
+
+[Row 0529] 1.1.1.28 CET1 capital elements or deductions - other
+This row is intended to provide flexibility solely for reporting purposes. It shall only be populated in the rare cases that there is no final decision on the reporting of specific capital items/deductions in the current CA1 template. As a consequence, this row shall only be populated if a CET1 capital element or a deduction from a CET1 element cannot be assigned to one of the rows 020 to 524.
+This row shall not be used to assign capital items/deductions which are not covered by CRR into the calculation of solvency ratios (e.g. an assignment of national capital items / deductions which are outside the scope of the CRR).
+
+--------------------------------------------------------------------------------
+3. ADDITIONAL TIER 1 (AT1) CAPITAL
+--------------------------------------------------------------------------------
+[Row 0530] 1.1.2 ADDITIONAL TIER 1 CAPITAL (Article 61 CRR)
+(No specific instructions provided)
+
+[Row 0540] 1.1.2.1 Capital instruments eligible as AT1 Capital (Point (a) of Article 51, Articles 52, 53 and 54, point (a) of Article 56 and Article 57 CRR)
+(No specific instructions provided)
+
+[Row 0551] 1.1.2.1.1 Fully paid up, directly issued capital instruments (Point (a) of Article 51 and Articles 52, 53 and 54 CRR)
+The amount to be reported shall not include the share premium related to the instruments.
+
+[Row 0560] 1.1.2.1.2 (*) Memorandum item: Capital instruments not eligible (Points (c), (e) and (f) of Article 52(1) CRR)
+Conditions in those points reflect different situations of the capital which are reversible, and thus the amount reported here can be eligible in subsequent periods.
+The amount to be reported shall not include the share premium related to the instruments.
+
+[Row 0571] 1.1.2.1.3 Share premium (Point (b) of Article 51 CRR)
+Share premium has the same meaning as under the applicable accounting standard.
+The amount to be reported in this item shall be the part related to the "fully paid up and directly issued capital instruments".
+
+[Row 0580] 1.1.2.1.4 (-) Own AT1 instruments (Point (b) of Article 52(1), point (a) of Article 56 and Article 57 CRR)
+Own AT1 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 57 CRR.
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+The amount to be reported shall include the share premium related to the own shares.
+Items 1.1.2.1.4 to 1.1.2.1.4.3 do not include actual or contingent obligations to purchase own CET1 instruments. Actual or contingent obligations to purchase own AT1 instruments are reported separately in item 1.1.2.1.5.
+
+[Row 0590] 1.1.2.1.4.1 (-) Direct holdings of AT1 instruments (Point (144) of Article 4(1), point (b) of Article 52(1), point (a) of Article 56 and Article 57 CRR)
+Additional Tier 1 instruments included in item 1.1.2.1.1 held by institutions of the consolidated group.
+
+[Row 0620] 1.1.2.1.4.2 (-) Indirect holdings of AT1 instruments (Point (b)(ii) of Article 52(1), point (a) of Article 56 and Article 57 CRR)
+(No specific instructions provided)
+
+[Row 0621] 1.1.2.1.4.3 (-) Synthetic holdings of AT1 instruments (Point (126) of Article 4(1), point (b) of Article 52(1), point (a) of Article 56 and Article 57 CRR)
+(No specific instructions provided)
+
+[Row 0622] 1.1.2.1.5 (-) Actual or contingent obligations to purchase own AT1 instruments (Point (a) of Article 56 and Article 57 CRR)
+According to point (a) of Article 56 CRR, "own Additional Tier 1 instruments that an institution could be obliged to purchase as a result of existing contractual obligations" shall be deducted.
+
+[Row 0660] 1.1.2.2 Transitional adjustments due to grandfathered AT1 Capital instruments (Paragraphs 4 and 5 of Article 483, Articles 484 to 487, Articles 489 and 491 CRR)
+Amount of capital instruments transitionally grandfathered as AT1. The amount to be reported is directly obtained from CA5.
+
+[Row 0670] 1.1.2.3 Instruments issued by subsidiaries that are given recognition in AT1 Capital (Articles 83, 85 and 86 CRR)
+Sum of all the amounts of qualifying T1 capital of subsidiaries that is included in consolidated AT1.
+Qualifying AT1 capital issued by a special purpose entity (Article 83 CRR) shall be included.
+
+[Row 0680] 1.1.2.4 Transitional adjustments due to additional recognition in AT1 Capital of instruments issued by subsidiaries (Article 480 CRR)
+Adjustments to the qualifying T1 capital included in consolidated AT1 capital due to transitional provisions. This item is obtained directly from CA5.
+
+[Row 0690] 1.1.2.5 (-) Reciprocal cross holdings in AT1 Capital (Point (122) of Article 4(1), point (b) of Article 56 and Article 58 CRR)
+Holdings in AT1 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where there is a reciprocal cross holding that the competent authority considers to have been designed to inflate artificially the own funds of the institution.
+The amount to be reported shall be calculated on the basis of the gross long positions, and shall include Additional Tier 1 own-fund insurance items.
+
+[Row 0700] 1.1.2.6 (-) AT1 instruments of financial sector entities where the institution does not have a significant investment (Point (27) of Article 4(1), point (c) of Article 56; Articles 59, 60 and 79 CRR)
+Part of holdings by the institution of instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution does not have a significant investment that has to be deducted from AT1.
+
+[Row 0710] 1.1.2.7 (-) AT1 instruments of financial sector entities where the institution has a significant investment (Point (27) of Article 4(1), point (d) of Article 56, Articles 59 and 79 CRR)
+Holdings by the institution of AT1 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution has a significant investment are completely deducted.
+
+[Row 0720] 1.1.2.8 (-) Excess of deduction from T2 items over T2 Capital (Point (e) of Article 56 CRR)
+The amount to be reported is directly taken from CA1 item "Excess of deduction from T2 items over T2 Capital (deducted in AT1)".
+
+[Row 0730] 1.1.2.9 Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 CRR)
+Adjustments due to transitional provisions. The amount to be reported is directly obtained from CA5.
+
+[Row 0740] 1.1.2.10 Excess of deduction from AT1 items over AT1 Capital (deducted in CET1) (Point (j) of Article 36(1) CRR)
+Additional Tier 1 cannot be negative, but it is possible that AT1 deductions are greater than AT1 Capital plus related share premium. When this happens, AT1 has to be equal to zero, and the excess of AT1 deductions has to be deducted from CET1.
+With this item, it is achieved that the sum of items 1.1.2.1 to 1.1.2.12 is never lower than zero. Where this item shows a positive figure, item 1.1.1.16 shall be the inverse of that figure.
+
+[Row 0744] 1.1.2.11 (-) Additional deductions of AT1 Capital due to Article 3 CRR (Article 3 CRR)
+(No specific instructions provided)
+
+[Row 0748] 1.1.2.12 AT1 capital elements or deductions - other
+This row is intended to provide flexibility solely for reporting purposes. It shall only be populated in the rare cases that there is no final decision on the reporting of specific capital items/deductions in the current CA1 template. As a consequence, this row shall only be populated if an AT1 capital element or a deduction from an AT1 element cannot be assigned to one of the rows 530 to 744.
+This row shall not be used to assign capital items/deductions which are not covered by CRR into the calculation of solvency ratios (e.g. an assignment of national capital items / deductions which are outside the scope CRR).
+
+--------------------------------------------------------------------------------
+4. TIER 2 CAPITAL
+--------------------------------------------------------------------------------
+[Row 0750] 1.2 TIER 2 CAPITAL (Article 71 CRR)
+(No specific instructions provided)
+
+[Row 0760] 1.2.1 Capital instruments eligible as T2 Capital (Point (a) of Article 62, Articles 63 to 65, point (a) of Article 66 and Article 67 CRR)
+(No specific instructions provided)
+
+[Row 0771] 1.2.1.1 Fully paid up, directly issued capital instruments (Point (a) of Article 62, Articles 63 and 65 CRR)
+The amount to be reported shall not include the share premium related to the instruments.
+The capital instruments may consist of equity or liabilities, including subordinated loans that fulfil the eligibility criteria.
+
+[Row 0780] 1.2.1.2 (*) Memorandum item: Capital instruments not eligible (Points (c), (e) and (f) of Article 63 and Article 64 CRR)
+Conditions in those points reflect different situations of the capital which are reversible, and thus the amount reported here can be eligible in subsequent periods.
+The amount to be reported shall not include the share premium related to the instruments.
+The capital instruments may consist of equity or liabilities, including subordinated loans.
+
+[Row 0791] 1.2.1.3 Share premium (Point (b) of Article 62 and Article 65 CRR)
+Share premium has the same meaning as under the applicable accounting standard.
+The amount to be reported in this item shall be the part related to the "fully paid up and directly issued capital instruments".
+
+[Row 0800] 1.2.1.4 (-) Own T2 instruments (Point (b)(i) of Article 63, point (a) of Article 66, and Article 67 CRR)
+Own T2 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 67 CRR.
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+The amount to be reported shall include the share premium related to the own shares.
+Items 1.2.1.4 to 1.2.1.4.3 do not include actual or contingent obligations to purchase own T2 instruments. Actual or contingent obligations to purchase own T2 instruments are reported separately in item 1.2.1.5.
+
+[Row 0810] 1.2.1.4.1 (-) Direct holdings of T2 instruments (Point (b) of Article 63, point (a) of Article 66 and Article 67 CRR)
+Tier 2 instruments included in item 1.2.1.1 held by institutions of the consolidated group.
+
+[Row 0840] 1.2.1.4.2 (-) Indirect holdings of T2 instruments (Point (114) of Article 4(1), point (b) of Article 63, point (a) of Article 66 and Article 67 CRR)
+(No specific instructions provided)
+
+[Row 0841] 1.2.1.4.3 (-) Synthetic holdings of T2 instruments (Point (126) of Article 4(1), point (b) of Article 63, point (a) of Article 66 and Article 67 CRR)
+(No specific instructions provided)
+
+[Row 0842] 1.2.1.5 (-) Actual or contingent obligations to purchase own T2 instruments (Point (a) of Article 66 and Article 67 CRR)
+According to point (a) of Article 66 CRR, "own Tier 2 instruments that an institution could be obliged to purchase as a result of existing contractual obligations" shall be deducted.
+
+[Row 0880] 1.2.2 Transitional adjustments due to grandfathered T2 Capital instruments (Paragraphs 6 and 7 of Article 483, Articles 484, 486, 488, 490 and 491 CRR)
+Amount of capital instruments transitionally grandfathered as T2. The amount to be reported is directly obtained from CA5.
+
+[Row 0890] 1.2.3 Instruments issued by subsidiaries that are given recognition in T2 Capital (Articles 83, 87 and 88 CRR)
+Sum of all the amounts of qualifying own funds of subsidiaries that is included in consolidated T2.
+Qualifying Tier 2 capital issued by a special purpose entity (Article 83 CRR) shall be included.
+
+[Row 0900] 1.2.4 Transitional adjustments due to additional recognition in T2 Capital of instruments issued by subsidiaries (Article 480 CRR)
+Adjustments to the qualifying own funds included in consolidated T2 capital due to transitional provisions. This item is obtained directly from CA5.
+
+[Row 0910] 1.2.5 IRB Excess of provisions over expected losses eligible (Point (d) of Article 62 CRR)
+For institutions calculating risk-weighted exposure amounts in accordance with IRB Approach, this item shall contain the positive amounts resulting from comparing the provisions and expected losses which are eligible as T2 capital.
+
+[Row 0920] 1.2.6 SA General credit risk adjustments (Point (c) of Article 62 CRR)
+For institutions calculating risk-weighted exposure amounts in accordance with standard approach, this item shall contain the general credit risk adjustments eligible as T2 capital.
+
+[Row 0930] 1.2.7 (-) Reciprocal cross holdings in T2 Capital (Point (122) of Article 4(1), point (b) of Article 66 and Article 68 CRR)
+Holdings in T2 instruments of financial sector entities (as defined in Article 4(1)(27) CRR) where there is a reciprocal cross holding that the competent authority considers to have been designed to inflate the own funds of the institution artificially.
+The amount to be reported shall be calculated on the basis of the gross long positions, and shall include Tier 2 and Tier 3 own-fund insurance items.
+
+[Row 0940] 1.2.8 (-) T2 instruments of financial sector entities where the institution does not have a significant investment (Point (27) of Article 4(1), point (c) of Article 66, Articles 68 to 70 and Article 79 CRR)
+Part of holdings by the institution of instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution does not have a significant investment that has to be deducted from T2.
+
+[Row 0950] 1.2.9 (-) T2 instruments of financial sector entities where the institution has a significant investment (Point (27) of Article 4(1), point (d) of Article 66, Articles 68, 69 and Article 79 CRR)
+Holdings by the institution of T2 instruments of financial sector entities (as defined in point (27) of Article 4(1) CRR) where the institution has a significant investment shall be completely deducted.
+
+[Row 0955] 1.2.9A (-) Excess of deductions from eligible liabilities over eligible liabilities (Article 66 (e) CRR)
+(No specific instructions provided)
+
+[Row 0960] 1.2.10 Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 CRR)
+Adjustments due to transitional provisions. The amount to be reported shall be directly obtained from CA5.
+
+[Row 0970] 1.2.11 Excess of deduction from T2 items over T2 Capital (deducted in AT1) (Point (e) of Article 56 CRR)
+Tier 2 cannot be negative, but it is possible that T2 deductions are greater than T2 Capital plus related share premium. When this happens, T2 shall be equal to zero, and the excess of T2 deductions shall be deducted from AT1.
+With this item, the sum of items 1.2.1 to 1.2.13 is never lower than zero. Where this item shows a positive figure, item 1.1.2.8 shall be the inverse of that figure.
+
+[Row 0974] 1.2.12 (-) Additional deductions of T2 Capital due to Article 3 CRR (Article 3 CRR)
+(No specific instructions provided)
+
+[Row 0978] 1.2.13 T2 capital elements or deductions - other
+This row provides flexibility solely for reporting purposes. It shall only be populated in the rare cases that there is no final decision on the reporting of specific capital items/deductions in the current CA1 template. As a consequence, this row shall only be populated if a T2 capital element or a deduction from a T2 element cannot be assigned to one of the rows 750 to 974.
+This row shall not be used to assign capital items/deductions which are not covered by CRR into the calculation of solvency ratios (e.g. an assignment of national capital items / deductions which are outside the scope CRR).
