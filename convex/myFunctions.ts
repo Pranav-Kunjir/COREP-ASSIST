@@ -213,14 +213,12 @@ export const getAuditLogs = query({
 /* =====================================================
    LLM ORCHESTRATION (ACTION)
 ===================================================== */
-
 export const runAssistant = action({
   args: {
     chatId: v.id("chats"),
     latestMessage: v.string(),
   },
   handler: async (ctx, args) => {
-    // ✅ reuse queries from THIS file
     const messages = await ctx.runQuery(api.myFunctions.getMessages, {
       chatId: args.chatId,
     });
@@ -228,6 +226,10 @@ export const runAssistant = action({
     const rows = await ctx.runQuery(api.myFunctions.getCorepRows, {
       chatId: args.chatId,
     });
+
+    // mark as intentionally used until LLM logic is added
+    messages.length;
+    rows.length;
 
     const text = args.latestMessage.toLowerCase();
 
@@ -240,10 +242,5 @@ export const runAssistant = action({
         content: `Assistant: I read your message — "${args.latestMessage}". How would you like me to help?`,
       });
     }
-
-    // future:
-    // - call LLM
-    // - decide row updates
-    // - apply updateCorepRow mutations
   },
 });
